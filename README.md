@@ -1,5 +1,5 @@
 # Helloworld
-hi
+Hi, My name is LQ67-67
 
 this is my first pull request // Current Time: Aug 03 2026
 
