@@ -1,5 +1,5 @@
 # Helloworld
-Hi, My name is LQ67-67
+Hi, My name is LQ67-67. You can also call me Skim.
 
 this is my first pull request // Current Time: Aug 03 2026
 
